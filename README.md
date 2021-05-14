@@ -45,6 +45,9 @@
 <code><img hight="40" width="40" alt="Ansible logo" title="Ansible" src="https://github.com/AnneRey/AnneRey/blob/main/content/icons/ansible.png"></code>
 <code><img hight="40" width="40" alt="Vagrant logo" title="Vagrant" src="https://github.com/AnneRey/AnneRey/blob/main/content/icons/vagrant.png"></code>
 <code><img hight="40" width="40" alt="Vault logo" title="Vault" src="https://github.com/AnneRey/AnneRey/blob/main/content/icons/vault.png"></code>
+#### Monitoring and Log Management
+<code><img hight="40" width="40" alt="New Relic logo" title="New Relic" src="https://github.com/AnneRey/AnneRey/blob/main/content/icons/new_relic.png"></code>
+<code><img hight="40" width="40" alt="Elastic Search logo" title="Elastic Search" src="https://github.com/AnneRey/AnneRey/blob/main/content/icons/elasticsearch.png"></code>
 
 ### Thanks for passing by 🤪
 ### bye! 🖖
