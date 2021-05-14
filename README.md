@@ -46,7 +46,7 @@
 <code><img hight="40" width="40" alt="Vagrant logo" title="Vagrant" src="https://github.com/AnneRey/AnneRey/blob/main/content/icons/vagrant.png"></code>
 <code><img hight="40" width="40" alt="Vault logo" title="Vault" src="https://github.com/AnneRey/AnneRey/blob/main/content/icons/vault.png"></code>
 
-### Thanks for passing by 🤪! If you have any questions, email me to anareyto27@gmail.com
+### Thanks for passing by 🤪
 ### bye! 🖖
 
 <img hight="300" width="300" align="center" src="https://github.com/AnneRey/AnneRey/blob/main/content/gifs/gif1.gif">
