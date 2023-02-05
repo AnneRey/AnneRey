@@ -7,7 +7,7 @@
 ### Glad to see you here!  <img hight="70" width="70" src="https://visitor-badge.glitch.me/badge?page_id=AnneRey/AnneRey">
 
 ## 🤟 About Me
-- 💁 I'm a 23 years old DevOps Engineer💻 from Colombia with 1+ years of experience
+- 💁 I'm a 25 years old DevOps Engineer💻 from Colombia with 3 years of experience
 - 🎓 I have a Bachelor in Informatics Engineering 👩‍💻
 - 💼 I'm currently working at <img hight="60" width="60" src="https://www.finki.ukim.mk/sites/default/files/preview-image_1.png"> in Bogotá
 - 🧡 I love reading romance and fantasy books!
